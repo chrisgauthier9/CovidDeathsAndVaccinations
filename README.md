@@ -1,11 +1,4 @@
-# Covid Deaths and Vaccinations
-
 # READ ME
-
-## Project Links
-
-> Tutorial: Alex The Analyst - COVID-19 SQL Tutorial
-> 
 
 ## **Overview**
 
