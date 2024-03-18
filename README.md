@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project focuses on exploring COVID-19 data spanning from January 26, 2020, to April 30, 2021. It employs various SQL techniques such as joins, common table expressions (CTEs), aggregate functions, and converting data types.
+This project delves into analyzing COVID-19 data spanning from January 26, 2020, to April 30, 2021. Using SQL techniques such as joins, common table expressions (CTEs), and aggregate functions, the project explores various aspects of the pandemic, including total cases, deaths, vaccination rates, and population percentages affected by COVID-19.
 
 ## **Data Sources**
 
@@ -41,14 +41,12 @@ This project focuses on exploring COVID-19 data spanning from January 26, 2020, 
 
 ## **Project Description**
 
-This project aims to explore COVID-19 data using SQL queries to extract insights such as:
+The project entails extensive data exploration using SQL techniques to analyze COVID-19 data from January 26, 2020, to April 30, 2021. It follows these key stages:
 
-- Total cases vs. total deaths
-- Percentage of population infected with COVID-19
-- Countries with the highest infection rates compared to population
-- Countries with the highest death counts per population
-- Global COVID-19 statistics including new cases, deaths, and death percentages
-- Percentage of population vaccinated against COVID-19
+1. **Data Exploration**: Employing SQL queries to delve into the COVID-19 datasets, focusing on understanding the data structure, identifying patterns, and extracting relevant insights. This involves querying various aspects of the data, including confirmed cases, deaths, vaccinations, population demographics, and economic indicators.
+2. **Query Development**: Crafting SQL queries to perform a wide range of analyses, such as total cases vs. total deaths, percentage of the population infected with COVID-19, countries with the highest infection rates compared to population, countries with the highest death counts per population, and global COVID-19 statistics including new cases, deaths, and death percentages.
+3. **Common Table Expressions (CTEs)**: Utilizing CTEs to streamline complex queries, facilitate data manipulation, and enhance query readability. This includes creating temporary tables to store intermediate results, performing calculations, and joining datasets to derive meaningful insights.
+4. **Aggregate Functions**: Leveraging SQL aggregate functions such as SUM, COUNT, AVG, and MAX to calculate summary statistics and aggregate data across different dimensions. These functions enable the computation of key metrics such as total cases, total deaths, vaccination rates, and percentage of the population vaccinated.
 
 ## **Acknowledgments**
 
